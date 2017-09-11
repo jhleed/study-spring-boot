@@ -7,3 +7,5 @@
 *.iml
 
 rebel.xml
+
+application.properties
